@@ -7,7 +7,7 @@ Primeiro módulo desse curso super interativo e gratuito no canal Youtube do cur
 Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
 
  - Psicologia das Cores :white_check_mark:
- - Representando Cores com CSS3 :white_check_mark:
+ - Representation Cores com CSS3 :white_check_mark:
  - Harmonia de cores :white_check_mark:
  - Paleta de cores :white_check_mark:
  - Como capturar cores da tela? :white_check_mark:
