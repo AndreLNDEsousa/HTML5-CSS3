@@ -6,28 +6,28 @@ Curso em Vídeo ( Prof.ª Gustavo Guanabara )
 Primeiro módulo desse curso super interativo e gratuito no canal Youtube do curso em vídeo.
 Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
 
- - Psicologia das Cores -
- - Representando Cores com CSS3.
- - Harmonia de cores.
- - Paleta de cores.
- - Como capturar cores da tela?.
- - Como criar degradê com CSS ?
- - Criando um exemplo real
- - Primeiros passos em Tipografia
- - Anatomia do tipo
- - Famílias de fonte com CSS
- - Tamanho de fonte e suas medidas
- - Peso, estilo e shorthand font
- - Usando Google Fonts
- - Usando fontes externas baixadas
- - Capturando as fontes usadas em um site
- - Detectando fontes dentro de imagens
- - Alinhamento de textos com CSS
- - Usando o id com CSS
- - As diferenças entre id e class
- - Pseudo-classes em CSS
- - Pseudo-elementos em CSS
- - Modelo de Caixas: primeiros passos
+ - Psicologia das Cores :white_check_mark:
+ - Representando Cores com CSS3 :white_check_mark:
+ - Harmonia de cores :white_check_mark:
+ - Paleta de cores :white_check_mark:
+ - Como capturar cores da tela? :white_check_mark:
+ - Como criar degradê com CSS ? :white_check_mark:
+ - Criando um exemplo real :white_check_mark:
+ - Primeiros passos em Tipografia :white_check_mark:
+ - Anatomia do tipo :white_check_mark:
+ - Famílias de fonte com CSS :white_check_mark:
+ - Tamanho de fonte e suas medidas :white_check_mark:
+ - Peso, estilo e shorthand font :white_check_mark:
+ - Usando Google Fonts :white_check_mark:
+ - Usando fontes externas baixadas :white_check_mark:
+ - Capturando as fontes usadas em um site :white_check_mark:
+ - Detectando fontes dentro de imagens :white_check_mark:
+ - Alinhamento de textos com CSS :white_check_mark:
+ - Usando o id com CSS :white_check_mark:
+ - As diferenças entre id e class :white_check_mark:
+ - Pseudo-classes em CSS :white_check_mark:
+ - Pseudo-elementos em CSS :white_check_mark:
+ - Modelo de Caixas: primeiros passos :white_check_mark:
  - Modelo de Caixas na prática (pt.1)
  - Modelo de Caixas na prática (Pt.2)
  - Grouping Tags em HTML5
