@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem dinâmicas</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente o tamanho do seu navegador.</p>
+    <picture>
+        <source media="(max-width:700px )" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width:1050px )" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="imagem flexível">
+    </picture>
+    <h1>Reproduzindo Áudio</h1>
+    <p>Vamos aprender a reproduzir em HTML5</p>
+    <audio src="media/07. Chris Cox Megamix.flac" controls autoplay></audio>
+    <!--Tag audio é compativel com MP3, WAV.OGG-->
+    <h2> Segundo modo</h2>
+    <audio preload="metadata" autoplay controls loop>
+        <source src="media/98. Musica Extra.mp3" type="audio/mpeg">
+        <source src="media/98. Musica Extra.mp3" type="audio/ogg">
+        <source src="media/98. Musica Extra.mp3" type="audio/wav">
+        <p>Infelizmente seu navegador não consegue reproduzir esse audio,<a href="media/98. Musica Extra.mp3"></a> Clique aqui para baixar o arquivo MP3</p>
+    </audio>
+  </body>
+</html>
