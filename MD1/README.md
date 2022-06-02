@@ -51,4 +51,4 @@ Conteúdo para o Curso de HTML5 e CSS3
 - Estilos CSS internos:white_check_mark:
 - Estilos CSS externos:white_check_mark:
  - Fim do Módulo 1
-## CONCLUÍDO 100%
+## CONCLUÍDO 100% 
