@@ -28,7 +28,7 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Pseudo-classes em CSS :white_check_mark:
  - Pseudo-elementos em CSS :white_check_mark:
  - Modelo de Caixas: primeiros passos :white_check_mark:
- - Modelo de Caixas na prática (pt.1)
+ - Modelo de Caixas na prática (pt.1) :white_check_mark:
  - Modelo de Caixas na prática (Pt.2)
  - Grouping Tags em HTML5
  - Sombra nas Caixas
