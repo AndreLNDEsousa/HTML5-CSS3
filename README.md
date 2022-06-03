@@ -1,7 +1,7 @@
 # HTML5-CSS3
 ![image](https://user-images.githubusercontent.com/87583186/171872978-b6514253-607c-4052-a080-ad6f6d372b33.png)
 
-- Curso em Vídeo ( Prof.ª Gustavo Guanabara ) Curso super interativo e gratuito no canal Youtube do curso em vídeo.  HTML5 e CSS3, dividido em 5 modulos.
+- Curso em Vídeo ( Prof.ª Gustavo Guanabara ) Curso super interativo e gratuito no canal Youtube do curso em vídeo.  HTML5 e CSS3, dividido em 5 módulos.
 
 ## Saiba mais!!!
 
