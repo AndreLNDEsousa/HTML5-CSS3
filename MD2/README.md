@@ -48,4 +48,4 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Rodapé, conteúdo periférico e links
  - Tornando um vídeo responsivo
 
-## CONCLUÍDO 62%
+## CONCLUÍDO 57%
