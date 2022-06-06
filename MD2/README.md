@@ -38,7 +38,7 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  #### Para mim esse teste não funcionou como no video, tive que usar o border-image-slice:27%;(usei %) para que desse o mesmo resultado do video, utilizando o navegador Chrome atualização atual 06\06\2022.
  🎞️ [video](https://www.youtube.com/watch?v=n0rjAs_Im4w&t=556s&ab_channel=CursoemV%C3%ADdeo)
  - --
- - DESAFIO do Módulo 2
+ - DESAFIO do Módulo 2 :white_check_mark:
  - Criando um projeto a partir do zero
  - Navegando pelo projeto pronto
  - Planejando a estrutura do seu site
@@ -52,4 +52,4 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Rodapé, conteúdo periférico e links
  - Tornando um vídeo responsivo
 
-## CONCLUÍDO 77%
+## CONCLUÍDO 64%
