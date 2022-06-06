@@ -31,9 +31,9 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Modelo de Caixas na prática (pt.1) :white_check_mark:
  - Modelo de Caixas na prática (Pt.2) :white_check_mark:
  - Grouping Tags em HTML5 :white_check_mark:
- - Sombra nas Caixas
- - Caixas com vértices arredondados
- - Bordas decoradas
+ - Sombra nas Caixas :white_check_mark:
+ - Caixas com vértices arredondados :white_check_mark:
+ - Bordas decoradas :white_check_mark:
  - DESAFIO do Módulo 2
  - Criando um projeto a partir do zero
  - Navegando pelo projeto pronto
@@ -48,4 +48,4 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Rodapé, conteúdo periférico e links
  - Tornando um vídeo responsivo
 
-## CONCLUÍDO 57%
+## CONCLUÍDO 77%
