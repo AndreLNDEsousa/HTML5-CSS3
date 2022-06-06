@@ -35,7 +35,7 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Caixas com vértices arredondados :white_check_mark:
  - Bordas decoradas :white_check_mark:
 
- ## Para mim esse teste não funcionou como no video, tive que usar o border-image-slice:27%;(usei %) para que desse o mesmo resultado do video, utilizando o navegador Chrome atualização atual 06\06\2022.
+ ### Para mim esse teste não funcionou como no video, tive que usar o border-image-slice:27%;(usei %) para que desse o mesmo resultado do video, utilizando o navegador Chrome atualização atual 06\06\2022.
  - DESAFIO do Módulo 2
  - Criando um projeto a partir do zero
  - Navegando pelo projeto pronto
