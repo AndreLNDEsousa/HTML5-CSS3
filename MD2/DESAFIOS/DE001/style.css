@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'idroid' ;
+    src: url(fontes/idroid.otf);
+}
+
+body {
+    background-color: #5ddcb8;
+
+}
+main {
+    background-color: white;
+    padding: auto;
+    margin: 10px 10px;
+}
+
+h2 {
+    font-family: 'idroid' ,Arial, Helvetica, sans-serif;
+}
+h2#versao {
+border:2px #5ddcb8;
+}
+
+header {
+    background-image:linear-gradient (to top, green,black);
+    background-attachment: fixed;
+
+} 
+
+footer {
+    Site Criado por Andre Sousa para o Curso em video 2022
+
+
+}
