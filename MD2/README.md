@@ -39,11 +39,11 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  🎞️ [video](https://www.youtube.com/watch?v=n0rjAs_Im4w&t=556s&ab_channel=CursoemV%C3%ADdeo)
  - --
  - DESAFIO do Módulo 2 :white_check_mark:
- - Criando um projeto a partir do zero
- - Navegando pelo projeto pronto
- - Planejando a estrutura do seu site
- - Transformando o layout em código
- - Organizando o conteúdo do site
+ - Criando um projeto a partir do zero :white_check_mark:
+ - Navegando pelo projeto pronto :white_check_mark:
+ - Planejando a estrutura do seu site :white_check_mark:
+ - Transformando o layout em código :white_check_mark:
+ - Organizando o conteúdo do site :white_check_mark:
  - Variáveis em CSS
  - Responsividade para sites
  - Responsividade na prática
@@ -52,4 +52,4 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Rodapé, conteúdo periférico e links
  - Tornando um vídeo responsivo
 
-## CONCLUÍDO 64%
+## CONCLUÍDO 77%
