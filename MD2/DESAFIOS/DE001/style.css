@@ -14,17 +14,24 @@ body {
     margin-inline-start: 10px;
     margin: 0px 0px;
     padding: 0px 0px;
-
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.514);
 
 }
 main {
     background-color: white;
-    padding: auto;
+    padding: 30px;
     margin: 0px 200px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.514); 
 }
+
+#frase {
+    text-shadow: 1px 1px black;
+}
+
 #titulo {
     text-shadow: 1px 2px black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
 }
 
 h2 {
@@ -32,6 +39,8 @@ h2 {
     text-align: left;
     color: #366557ec;
     margin-left: 10px;margin-right: 50px;
+    font-size: 35px
+    ;
 }
 h2#versão {
 border:2px #5ddcb8;
@@ -46,11 +55,16 @@ p#texto{
     font-size: 20px;
 }
 
+#texto3 {
+    text-align: justify;
+    padding: 10px;
+}
+
 header {
     display: block;
     margin: auto;
     width: 100%;
-    height: 200px;
+    height: 150px;
     background-image: linear-gradient(to top, #1e5b15eb,#97eaab);
     text-align: center;
     
@@ -67,12 +81,15 @@ nav>a {
     color: white;
     text-align: left;
     text-decoration: none;
+    padding: 10px;
     
 }
 
  #video {
     background-color: #245043;
     margin: 5px 5px 5px 5px;
+    padding: 0px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.514);
  }   
 
 #aprender {
@@ -82,7 +99,7 @@ nav>a {
     color: white;
     width: 1050px;
     height: 50px;
-    
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.514);
 }
 
 #destaque {
@@ -98,6 +115,7 @@ nav>a {
     padding: 0px 0px 0px 0px;
     margin: 0px 0px 0px 0px;
     font-size: 25px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.514);
 }
 #lista1 {
     text-align: left;
@@ -123,6 +141,7 @@ nav>a {
 
 footer > p {
     margin: 0px;
+    
 }
 
 footer {    
@@ -131,5 +150,5 @@ color: white;
 margin-top: 10px;
 padding: 25px;
 height: 15px;
-
+box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.514);
 }
