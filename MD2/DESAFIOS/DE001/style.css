@@ -22,6 +22,10 @@ main {
     padding: auto;
     margin: 0px 200px;
 }
+#titulo {
+    text-shadow: 1px 2px black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
 h2 {
     font-family: 'idroid' ,Arial, Helvetica, sans-serif;
@@ -39,6 +43,7 @@ p#texto{
     margin-inline-start: 10px;
     text-align: justify;
     padding: 0px 10px;
+    font-size: 20px;
 }
 
 header {
@@ -48,10 +53,11 @@ header {
     height: 200px;
     background-image: linear-gradient(to top, #1e5b15eb,#97eaab);
     text-align: center;
+    
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     padding: auto;
-    box-shadow: black;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.514);
     } 
 nav {
     text-align: left;
@@ -61,6 +67,57 @@ nav>a {
     color: white;
     text-align: left;
     text-decoration: none;
+    
+}
+
+ #video {
+    background-color: #245043;
+    margin: 5px 5px 5px 5px;
+ }   
+
+#aprender {
+    background-color: #88f194;
+    border-radius: 20px 20px 0px 3px;
+    text-align: left;
+    color: white;
+    width: 1050px;
+    height: 50px;
+    
+}
+
+#destaque {
+    color: #245043;
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#quadrado {
+    background-color: #b0ecdba4;
+    width: 1050px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    font-size: 25px;
+}
+#lista1 {
+    text-align: left;
+    width: 300px;
+    height: 120;
+    
+}
+#coluna1 {
+    text-align: left;
+   
+}
+
+#lista2 {
+    text-align: right;
+    width: 300px;
+    height: 150;
+    
+}
+#coluna2 {
+    text-align: left;
     
 }
 
