@@ -44,7 +44,7 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Planejando a estrutura do seu site :white_check_mark:
  - Transformando o layout em código :white_check_mark:
  - Organizando o conteúdo do site :white_check_mark:
- - Variáveis em CSS
+ - Variáveis em CSS :white_check_mark:
  - Responsividade para sites
  - Responsividade na prática
  - Configurando o header e o menu do site
@@ -52,4 +52,4 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Rodapé, conteúdo periférico e links
  - Tornando um vídeo responsivo
 
-## CONCLUÍDO 77%
+## CONCLUÍDO 80%
