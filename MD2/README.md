@@ -49,7 +49,7 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Responsividade na prática :white_check_mark:
  - Configurando o header e o menu do site :white_check_mark:
  - Melhorando o formato do conteúdo :white_check_mark:
- - Rodapé, conteúdo periférico e links
+ - Rodapé, conteúdo periférico e links :white_check_mark:
  - Tornando um vídeo responsivo
 
-## CONCLUÍDO 86%
+## CONCLUÍDO 91%
