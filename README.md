@@ -16,7 +16,10 @@ Curso em Vídeo ( Prof.ª Gustavo Guanabara ) Curso super interativo e gratuito 
 
 # Projetos
 ## Site Android :desktop_computer:
-https://andrelndesousa.github.io/projeto-android/
+
+<a href="https://andrelndesousa.github.io/projeto-android/" target="_blank">andrelndesousa.github.io/projeto-android</a>
+
+
 
 Acesse o projeto pelo QR CODE
 
