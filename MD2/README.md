@@ -50,6 +50,7 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  - Configurando o header e o menu do site :white_check_mark:
  - Melhorando o formato do conteúdo :white_check_mark:
  - Rodapé, conteúdo periférico e links :white_check_mark:
- - Tornando um vídeo responsivo
+ - Tornando um vídeo responsivo :white_check_mark:
 
-## CONCLUÍDO 91%
+## CONCLUÍDO 100%
+![image](https://user-images.githubusercontent.com/87583186/174632661-15d3707f-9257-4cf1-8fcd-9ad92ef95494.png)
