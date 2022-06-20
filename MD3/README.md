@@ -1,11 +1,15 @@
-# HTML-CSS 
+#  HTML-CSS 
+
 ![image](https://user-images.githubusercontent.com/87583186/171689878-de221f29-2618-4d32-8fbd-887e3277b727.png)
 
+ --- 
+ 
 ## MD02
 Curso em Vídeo ( Prof.ª Gustavo Guanabara )
 Primeiro módulo desse curso super interativo e gratuito no canal Youtube do curso em vídeo.
 Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
 
+ --- 
  -  18 Aula 00 – O que vamos aprender no módulo 3? :white_check_mark:
  -  18 Aula 01 – O que é Git e GitHub? :white_check_mark:
  -  18 Aula 02 – Instalando Git e GitHub no PC  :white_check_mark::white_check_mark:
@@ -46,6 +50,6 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  -  21 Aula 13 – Agrupando Colunas com colgroup
  -  21 Aula 14 – Tabelas responsivas
 
-
+ --- 
 
 ## CONCLUÍDO 25%
