@@ -24,8 +24,8 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  -  19 Aula 01- Download das imagens do capítulo :white_check_mark:
  -  19 Aula 02 – Colocando uma imagem de fundo no seu site :white_check_mark:
  -  19 Aula 03 – Imagens que se repetem no fundo do site :white_check_mark:
- -  19 Aula 04 – Configurando a posição da imagem no fundo do site
- -  19 Aula 05 – Mudando o tamanho da imagem de fundo do site
+ -  19 Aula 04 – Configurando a posição da imagem no fundo do site :white_check_mark:
+ -  19 Aula 05 – Mudando o tamanho da imagem de fundo do site :white_check_mark:
  -  19 Aula 06 – background-attachment e shorthand
  -  19 Aula 07 – Centralização vertical de caixas
  -  20 Aula 01 – Um projeto completo usando HTML e CSS
@@ -52,4 +52,4 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
 
  --- 
 
-## CONCLUÍDO 25%
+## CONCLUÍDO 35%
