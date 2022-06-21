@@ -52,4 +52,4 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
 
  --- 
 
-## CONCLUÍDO 35%
+## CONCLUÍDO 37%
