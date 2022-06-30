@@ -51,5 +51,7 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  -  21 Aula 14 – Tabelas responsivas
 
  --- 
+ EXECUTAR OS EXERCICIOS
+ 006 - https://andrelndesousa.github.io/HTML5-CSS3/MD3/EXERCICIOS/EX022/fundo006.html
 
 ## CONCLUÍDO 37%
