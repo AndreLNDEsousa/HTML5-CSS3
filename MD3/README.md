@@ -35,10 +35,10 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  -  20 Aula 05 – Colocando as fontes ao projeto :white_check_mark:
  -  20 Aula 06 – Imagens com efeito Parallax simples :white_check_mark:
  -  20 Aula 07 – Hospedando o Projeto Cordel gratuitamente :white_check_mark:
- -  21 Aula 01 – Ainda podemos usar tabelas em HTML?
- -  21 Aula 02 – Sua primeira tabela em HTML
- -  21 Aula 03 – Alinhando o conteúdo em tabelas
- -  21 Aula 04 – Aprendendo a trabalhar com tabelas grandes
+ -  21 Aula 01 – Ainda podemos usar tabelas em HTML? :white_check_mark:
+ -  21 Aula 02 – Sua primeira tabela em HTML :white_check_mark:
+ -  21 Aula 03 – Alinhando o conteúdo em tabelas :white_check_mark:
+ -  21 Aula 04 – Aprendendo a trabalhar com tabelas grandes :white_check_mark:
  -  21 Aula 05 – Caption e Escopo de títulos em tabelas
  -  21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS
  -  21 Aula 07 – Cabeçalho fixo em tabelas grandes
@@ -54,4 +54,4 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  EXECUTAR OS EXERCICIOS
  FUNDO006 - https://andrelndesousa.github.io/HTML5-CSS3/MD3/EXERCICIOS/EX022/fundo006.html
 
-## CONCLUÍDO 63%
+## CONCLUÍDO 68%
