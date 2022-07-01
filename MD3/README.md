@@ -7,7 +7,7 @@
 ## MD02
 Curso em Vídeo ( Prof.ª Gustavo Guanabara )
 Primeiro módulo desse curso super interativo e gratuito no canal Youtube do curso em vídeo.
-Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
+Conheça mais sobre o curso em vídeo : <a href="https://www.cursoemvideo.com/sobre/"target="_blank ">https://www.cursoemvideo.com/sobre/</a>
 
  --- 
  -  18 Aula 00 – O que vamos aprender no módulo 3? :white_check_mark:
@@ -52,6 +52,6 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
 
  --- 
  EXECUTAR OS EXERCICIOS
- FUNDO006 - https://andrelndesousa.github.io/HTML5-CSS3/MD3/EXERCICIOS/EX022/fundo006.html
+ FUNDO006 - <a href="https://andrelndesousa.github.io/HTML5-CSS3/MD3/EXERCICIOS/EX022/fundo006.html" target="_blank ">https://andrelndesousa.github.io/HTML5-CSS3/MD3/EXERCICIOS/EX022/fundo006.html</a>
 
 ## CONCLUÍDO 63%
