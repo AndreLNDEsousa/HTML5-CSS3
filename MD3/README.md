@@ -39,8 +39,8 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  -  21 Aula 02 – Sua primeira tabela em HTML :white_check_mark:
  -  21 Aula 03 – Alinhando o conteúdo em tabelas :white_check_mark:
  -  21 Aula 04 – Aprendendo a trabalhar com tabelas grandes :white_check_mark:
- -  21 Aula 05 – Caption e Escopo de títulos em tabelas
- -  21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS
+ -  21 Aula 05 – Caption e Escopo de títulos em tabelas  :white_check_mark:
+ -  21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS  :white_check_mark:
  -  21 Aula 07 – Cabeçalho fixo em tabelas grandes
  -  21 Aula 08 – Mesclagem de células
  -  21 Aula 09 – Desafios (parte 1)
@@ -54,4 +54,4 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  EXECUTAR OS EXERCICIOS
  FUNDO006 - https://andrelndesousa.github.io/HTML5-CSS3/MD3/EXERCICIOS/EX022/fundo006.html
 
-## CONCLUÍDO 68%
+## CONCLUÍDO 73%
