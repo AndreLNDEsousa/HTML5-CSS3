@@ -1,47 +1,72 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabelas</title>
     <style>
+       
+*{
+    margin: 0px;
+    padding: 0px;
+}
         body {
             font-family: Arial, Helvetica, sans-serif;
+            background-color: blue;
         }
 
         table {
+            margin: auto;
+            width: 400px;
+            height: 400px;
+            position:relative;
+            padding: auto;
             border-collapse: collapse;
             width: 300px;
+            background-color: white;
         }
-        
+
         td {
             border: 1px solid black;
             padding: 10px;
             text-align: center;
         }
+
+        h1{
+            background-color: black;
+            color: white;
+            margin: auto;
+            padding: -20px -20px -20px -20px;
+            text-align: center;
+        }
     </style>
 </head>
+
 <body>
     <h1>Mesclagem de Células</h1>
     <table>
         <tr>
             <td>A</td>
             <td colspan="2">B</td>
-            
+            <!--mescla as 2 colunas-->
         </tr>
         <tr>
             <td rowspan="3">D</td>
+            <!--mescla 3 linhas-->
             <td>E</td>
             <td rowspan="2">F</td>
+            <!--mescla 3 linhas-->
         </tr>
         <tr>
-            
+
             <td>H</td>
-            
+
         </tr>
-        <tr>  
+        <tr>
             <td colspan="2">M</td>
         </tr>
     </table>
 </body>
+
 </html>
