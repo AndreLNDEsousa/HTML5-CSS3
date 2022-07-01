@@ -26,15 +26,15 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  -  19 Aula 03 – Imagens que se repetem no fundo do site :white_check_mark:
  -  19 Aula 04 – Configurando a posição da imagem no fundo do site :white_check_mark:
  -  19 Aula 05 – Mudando o tamanho da imagem de fundo do site :white_check_mark:
- -  19 Aula 06 – background-attachment e shorthand
- -  19 Aula 07 – Centralização vertical de caixas
- -  20 Aula 01 – Um projeto completo usando HTML e CSS
- -  20 Aula 02 – Download e organização dos arquivos
- -  20 Aula 03 – Ajustes no HTML do projeto
- -  20 Aula 04 – Ajustes no CSS do projeto
- -  20 Aula 05 – Colocando as fontes ao projeto
- -  20 Aula 06 – Imagens com efeito Parallax simples
- -  20 Aula 07 – Hospedando o Projeto Cordel gratuitamente
+ -  19 Aula 06 – background-attachment e shorthand :white_check_mark: :white_check_mark:
+ -  19 Aula 07 – Centralização vertical de caixas :white_check_mark:
+ -  20 Aula 01 – Um projeto completo usando HTML e CSS :white_check_mark:
+ -  20 Aula 02 – Download e organização dos arquivos :white_check_mark:
+ -  20 Aula 03 – Ajustes no HTML do projeto :white_check_mark:
+ -  20 Aula 04 – Ajustes no CSS do projeto :white_check_mark:
+ -  20 Aula 05 – Colocando as fontes ao projeto :white_check_mark:
+ -  20 Aula 06 – Imagens com efeito Parallax simples :white_check_mark:
+ -  20 Aula 07 – Hospedando o Projeto Cordel gratuitamente :white_check_mark:
  -  21 Aula 01 – Ainda podemos usar tabelas em HTML?
  -  21 Aula 02 – Sua primeira tabela em HTML
  -  21 Aula 03 – Alinhando o conteúdo em tabelas
@@ -54,4 +54,4 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  EXECUTAR OS EXERCICIOS
  FUNDO006 - https://andrelndesousa.github.io/HTML5-CSS3/MD3/EXERCICIOS/EX022/fundo006.html
 
-## CONCLUÍDO 37%
+## CONCLUÍDO 63%
