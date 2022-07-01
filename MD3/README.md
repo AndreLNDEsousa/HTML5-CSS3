@@ -41,7 +41,7 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  -  21 Aula 04 – Aprendendo a trabalhar com tabelas grandes :white_check_mark:
  -  21 Aula 05 – Caption e Escopo de títulos em tabelas  :white_check_mark:
  -  21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS  :white_check_mark:
- -  21 Aula 07 – Cabeçalho fixo em tabelas grandes
+ -  21 Aula 07 – Cabeçalho fixo em tabelas grandes  :white_check_mark:
  -  21 Aula 08 – Mesclagem de células
  -  21 Aula 09 – Desafios (parte 1)
  -  21 Aula 10 – Exemplo de tabela completa
