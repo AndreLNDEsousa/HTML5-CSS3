@@ -25,3 +25,13 @@ Acesse o projeto pelo QR CODE
 
 ![frame](https://user-images.githubusercontent.com/87583186/174659904-f8cf1310-5388-4dd0-9a27-3d87a2222e30.png)
 
+## Site Cordel :desktop_computer:
+
+<a href="https://andrelndesousa.github.io/Projeto-cordel/" target="_blank">https://andrelndesousa.github.io/Projeto-cordel/</a>
+
+
+
+Acesse o projeto pelo QR CODE
+
+![frame (1)](https://user-images.githubusercontent.com/87583186/176937876-96fee615-a44d-4022-aa08-32e2225be5c8.png)
+
