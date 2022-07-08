@@ -48,7 +48,7 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  -  21 Aula 11 – Escopos de grupo  :white_check_mark:
  -  21 Aula 12 – Desafios (parte 2)  :white_check_mark:
  -  21 Aula 13 – Agrupando Colunas com colgroup  :white_check_mark:
- -  21 Aula 14 – Tabelas responsivas  :white_check_mark:
+ -  21 Aula 14 – Tabelas responsivas :white_check_mark:
 
  --- 
  EXECUTAR OS EXERCÍCIOS
