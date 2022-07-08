@@ -1,40 +1,60 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercicio de Tabelas</title>
-    
-    <style>
+    <title>Exercício de Tabelas</title>
 
+    <style>
         body {
             font-family: Arial, Helvetica, sans-serif
         }
 
-        table{
+        table {
             width: 500px;
             border-collapse: collapse;
         }
 
-        caption{
+        caption {
             font-size: 1.3em;
             font-weight: border;
             padding: 8px;
         }
 
-        th, td {
+        th,
+        td {
             border: 1px solid black;
             padding: 8px;
         }
 
+        /*  CSS para a formatação de uma coluna inteira , usando o colgroup*/
+        col.cnome {
+            background-color: aqua;
+        }
+
+        /* CSS para o cgrupo  */
+        col.cgrupo {
+            background-color: rgba(128, 128, 128, 0.269);
+        }
     </style>
 </head>
+
 <body>
 
     <h1>Exercício de Tabela</h1>
 
     <table>
+        <!-- tag colgroup, daremos uma class para cada coluna para facilitar na formação de varios dados de uma só vez -->
+        <colgroup>
+            <col class="cnome">
+            <col class="cgrupo" span="3"> <!--  com o SPAN é possível expandir o css para outras colunas -->
+            <!-- 
+        <col class="cidade">
+        <col class="cprof"> 
+        -->
+        </colgroup>
         <caption>Cadastro </caption>
         <tr>
             <th scope="col">Nome</th>
@@ -85,6 +105,7 @@
 
         </tr>
     </table>
-    
+
 </body>
+
 </html>
