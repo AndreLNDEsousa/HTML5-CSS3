@@ -51,7 +51,7 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  -  21 Aula 14 – Tabelas responsivas  :white_check_mark:
 
  --- 
- EXECUTAR OS EXERCICIOS
+ EXECUTAR OS EXERCÍCIOS
  FUNDO006 - https://andrelndesousa.github.io/HTML5-CSS3/MD3/EXERCICIOS/EX022/fundo006.html
 
 ## CONCLUÍDO 100%
