@@ -42,16 +42,19 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
  -  21 Aula 05 – Caption e Escopo de títulos em tabelas  :white_check_mark:
  -  21 Aula 06 – Efeito Zebrado na tabela com HTML e CSS  :white_check_mark:
  -  21 Aula 07 – Cabeçalho fixo em tabelas grandes  :white_check_mark:
- -  21 Aula 08 – Mesclagem de células
- -  21 Aula 09 – Desafios (parte 1)
- -  21 Aula 10 – Exemplo de tabela completa
- -  21 Aula 11 – Escopos de grupo
- -  21 Aula 12 – Desafios (parte 2)
- -  21 Aula 13 – Agrupando Colunas com colgroup
- -  21 Aula 14 – Tabelas responsivas
+ -  21 Aula 08 – Mesclagem de células  :white_check_mark:
+ -  21 Aula 09 – Desafios (parte 1)  :white_check_mark:
+ -  21 Aula 10 – Exemplo de tabela completa  :white_check_mark:
+ -  21 Aula 11 – Escopos de grupo  :white_check_mark:
+ -  21 Aula 12 – Desafios (parte 2)  :white_check_mark:
+ -  21 Aula 13 – Agrupando Colunas com colgroup  :white_check_mark:
+ -  21 Aula 14 – Tabelas responsivas  :white_check_mark:
 
  --- 
  EXECUTAR OS EXERCICIOS
  FUNDO006 - https://andrelndesousa.github.io/HTML5-CSS3/MD3/EXERCICIOS/EX022/fundo006.html
 
-## CONCLUÍDO 73%
+## CONCLUÍDO 100%
+
+![image](https://user-images.githubusercontent.com/87583186/178054685-5cdbd9e1-5596-45a1-86e6-c9502de0e373.png)
+
