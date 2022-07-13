@@ -8,12 +8,12 @@ Conheça mais sobre o curso em vídeo : https://www.cursoemvideo.com/sobre/
 
 Conteúdo da Módulo
  --- 
- -  Capítulo 22 Aula 0 – O que vamos aprender no módulo 4?
- -  Capítulo 22 Aula 1 – O iframe ainda pode ser usado?
- -  Capítulo 22 Aula 2 – Configurando iframes
- -  Capítulo 22 Aula 3 – Conteúdo local no iframe
- -  Capítulo 22 Aula 4 – Navegação no iframe
- -  Capítulo 22 Aula 5 – Conteúdo no iframe por código
+ -  Capítulo 22 Aula 0 – O que vamos aprender no módulo 4? :white_check_mark:
+ -  Capítulo 22 Aula 1 – O iframe ainda pode ser usado? :white_check_mark:
+ -  Capítulo 22 Aula 2 – Configurando iframes :white_check_mark:
+ -  Capítulo 22 Aula 3 – Conteúdo local no iframe :white_check_mark:
+ -  Capítulo 22 Aula 4 – Navegação no iframe :white_check_mark:
+ -  Capítulo 22 Aula 5 – Conteúdo no iframe por código :white_check_mark:
  -  Capítulo 22 Aula 6 – Inconvenientes do iframe
  -  Capítulo 22 Aula 7 – Tornando iframes mais seguros
  -  Capítulo 22 Aula 8 – Dicas para iframes melhores
