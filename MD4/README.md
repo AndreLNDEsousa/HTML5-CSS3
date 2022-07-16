@@ -14,9 +14,9 @@ Conteúdo da Módulo
  -  Capítulo 22 Aula 3 – Conteúdo local no iframe :white_check_mark:
  -  Capítulo 22 Aula 4 – Navegação no iframe :white_check_mark:
  -  Capítulo 22 Aula 5 – Conteúdo no iframe por código :white_check_mark:
- -  Capítulo 22 Aula 6 – Inconvenientes do iframe
- -  Capítulo 22 Aula 7 – Tornando iframes mais seguros
- -  Capítulo 22 Aula 8 – Dicas para iframes melhores
+ -  Capítulo 22 Aula 6 – Inconvenientes do iframe  :white_check_mark:
+ -  Capítulo 22 Aula 7 – Tornando iframes mais seguros  :white_check_mark:
+ -  Capítulo 22 Aula 8 – Dicas para iframes melhores  :white_check_mark:
  -  Capítulo 23 Aula 1 – Criando um projeto do zero
  -  Capítulo 23 Aula 2 – Vamos começar o projeto
  -  Capítulo 23 Aula 3 – Criando a página inicial do projeto
@@ -27,4 +27,4 @@ Conteúdo da Módulo
 
  
 
-## CONCLUÍDO 30%
+## CONCLUÍDO 45%
