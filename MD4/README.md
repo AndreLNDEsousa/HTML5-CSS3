@@ -17,14 +17,17 @@ Conteúdo da Módulo
  -  Capítulo 22 Aula 6 – Inconvenientes do iframe  :white_check_mark:
  -  Capítulo 22 Aula 7 – Tornando iframes mais seguros  :white_check_mark:
  -  Capítulo 22 Aula 8 – Dicas para iframes melhores  :white_check_mark:
- -  Capítulo 23 Aula 1 – Criando um projeto do zero
- -  Capítulo 23 Aula 2 – Vamos começar o projeto
- -  Capítulo 23 Aula 3 – Criando a página inicial do projeto
- -  Capítulo 23 Aula 4 – Posicionando o conteúdo do site
- -  Capítulo 23 Aula 5 – Criando os botões para redes sociais
- -  Capítulo 23 Aula 6 – Criando as páginas de cada rede social
- -  Capítulo 23 Aula 7 – Personalizando as imagens do projeto
+ -  Capítulo 23 Aula 1 – Criando um projeto do zero  :white_check_mark:
+ -  Capítulo 23 Aula 2 – Vamos começar o projeto  :white_check_mark:
+ -  Capítulo 23 Aula 3 – Criando a página inicial do projeto  :white_check_mark:
+ -  Capítulo 23 Aula 4 – Posicionando o conteúdo do site  :white_check_mark:
+ -  Capítulo 23 Aula 5 – Criando os botões para redes sociais  :white_check_mark:
+ -  Capítulo 23 Aula 6 – Criando as páginas de cada rede social  :white_check_mark:
+ -  Capítulo 23 Aula 7 – Personalizando as imagens do projeto  :white_check_mark:
+ -  Capítulo 24 Aula 1 – Como criar formulários com HTML5 :white_check_mark:
+ -  Capítulo 24 Aula 2 – Usar Label vai melhorar seus formulários
+ -  Capítulo 24 Aula 3 – Métodos GET e POST para formulários
 
  
 
-## CONCLUÍDO 45%
+## CONCLUÍDO 80%
