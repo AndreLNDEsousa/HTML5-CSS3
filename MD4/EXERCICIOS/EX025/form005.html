@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=4, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Exemplos de checkbox</h1>
+
+    <form action="cadastro.php" method="get" autocomplete="on">
+
+        <fieldset>
+            <legend>Sexo</legend>
+            <!-- botões  input radius tem que ter o mesmo nome para que funcione a troca de opção,checked deixa marcada a opção -->
+            <input type="radio" name="Sexo" id="isxmas" value="M" checked> <label for="isxmas">Masculino</label>
+            <input type="radio" name="Sexo" id="isxfem" value="F"> <label for="isxfem">Feminino</label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Esportes Favoritos</legend>
+            <input type="checkbox" name="esbas" id="iesbas"> <label for="iesbas">Basquete</label> <br>
+            <input type="checkbox" name="esfut" id="iesfut"> <label for="iesfut">Futebol</label> <br>
+            <input type="checkbox" name="esnat" id="iesnat" checked> <label for="iesnat">Natação</label><br>
+            <input type="checkbox" name="esten" id="iesten"> <label for="iesten">Tênis</label> <br>
+        </fieldset>
+
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+    
+</body>
+</html>
