@@ -32,9 +32,9 @@ Conteúdo da Módulo
  -  Capítulo 24 Aula 06 – Compatibilidade com navegadores :white_check_mark:
  -  Capítulo 24 Aula 07 – Formulários com telefone e e-mail :white_check_mark:
  -  Capítulo 24 Aula 08 – Checkbox e Radio button em HTML :white_check_mark:
- -  Capítulo 24 Aula 09 – Elementos color, range e file em HTML
- -  Capítulo 24 Aula 10 – Select, datalist e textarea em HTML
+ -  Capítulo 24 Aula 09 – Elementos color, range e file em HTML  :white_check_mark:
+ -  Capítulo 24 Aula 10 – Select, datalist e textarea em HTML  :white_check_mark:
 
  
 
-## CONCLUÍDO 85%
+## CONCLUÍDO 96%
