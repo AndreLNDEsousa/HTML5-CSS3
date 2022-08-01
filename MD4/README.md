@@ -25,9 +25,16 @@ Conteúdo da Módulo
  -  Capítulo 23 Aula 6 – Criando as páginas de cada rede social  :white_check_mark:
  -  Capítulo 23 Aula 7 – Personalizando as imagens do projeto  :white_check_mark:
  -  Capítulo 24 Aula 1 – Como criar formulários com HTML5 :white_check_mark:
- -  Capítulo 24 Aula 2 – Usar Label vai melhorar seus formulários
- -  Capítulo 24 Aula 3 – Métodos GET e POST para formulários
+ -  Capítulo 24 Aula 2 – Usar Label vai melhorar seus formulários :white_check_mark:
+ -  Capítulo 24 Aula 3 – Métodos GET e POST para formulários :white_check_mark:
+ -  Capítulo 24 Aula 04 – Criando caixas de texto e de senha :white_check_mark:
+ -  Capítulo 24 Aula 05 – Elementos number, month, date e time em formulários HTML :white_check_mark:
+ -  Capítulo 24 Aula 06 – Compatibilidade com navegadores :white_check_mark:
+ -  Capítulo 24 Aula 07 – Formulários com telefone e e-mail :white_check_mark:
+ -  Capítulo 24 Aula 08 – Checkbox e Radio button em HTML :white_check_mark:
+ -  Capítulo 24 Aula 09 – Elementos color, range e file em HTML
+ -  Capítulo 24 Aula 10 – Select, datalist e textarea em HTML
 
  
 
-## CONCLUÍDO 80%
+## CONCLUÍDO 85%
