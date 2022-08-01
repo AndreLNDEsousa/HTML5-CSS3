@@ -4,9 +4,35 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Exemplo de Formulários</title>
 </head>
 <body>
+    <h1>Color range</h1>
+
+    <form action="cadastro.php" method="post" autocomplete="on">
+
+        <p>
+            <label for="icor">Cor</label>
+            <input type="color" name="cor" id="icor">
+        </p>
+
+        <p>
+            <label for="inivel">Nível de Satisfação</label>
+            <input type="range" name="nivel" id="inivel" min="0" max="5" value="2">
+        </p>
+
+        <p>
+            <!-- Quando utiliza-se o input do tipo FILE, o method deve ser POST e não GET , pois pode conter arquivos acima de 3.000 bytes-->
+            <label for="ifoto">Foto de Perfil</label>
+            <input type="file" name="foto" id="ifoto">
+        </p>
+
+
+    <p>
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Limpar">
+    </p>
+</form>
     
 </body>
 </html>
