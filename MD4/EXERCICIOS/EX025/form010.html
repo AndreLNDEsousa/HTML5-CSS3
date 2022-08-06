@@ -19,7 +19,7 @@
 
         <p>
             <label for="iidade">Qual a sua idade?</label>
-            <input type="number" name="idade" id="iidade">
+            <output id="iidade">0</output>
 
         </p>
 
@@ -29,6 +29,13 @@
             <input type="submit" value="Enviar">
             <input type="reset" value="Limpar">
         </p>
+
+        <script>
+            function calcidade(){
+                let atual = new Date().getFullYear()
+                iidade.innerHTML = Number(atual) - Number(iano.value)
+            }
+        </script>
 
     </form>
     
