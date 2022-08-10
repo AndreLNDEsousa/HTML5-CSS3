@@ -8,11 +8,12 @@
         font-family: Arial, Helvetica, sans-serif;
     }
 
-    html, body {
+    html,
+    body {
         width: 100vw;
         height: 100vh;
         background-color: #233eff;
-        background-size: cover;
+        background-size: contain;
         background-repeat: no-repeat;
 
     }
@@ -28,7 +29,7 @@
 @media screen and (orientation: portrait) {
 
     body {
-        background-image: url(../imagens/cev-portrait.jpg) no-repeat;
+        background-image: url(../imagens/cev-portrait.jpg);
         background-position: bottom;
     }
 
@@ -38,8 +39,7 @@
 @media screen and (orientation : landscape) {
 
     body {
-        background-image: url(../imagens/cev-landscape.jpg) no-repeat;
-        /* Tive que colocar no-repeat aqui pois a imagem estava se repetindo*/
+        background-image: url(../imagens/cev-landscape.jpg);
         background-position: left bottom;
     }
 
