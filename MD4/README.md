@@ -34,6 +34,14 @@ Conteúdo da Módulo
  -  Capítulo 24 Aula 08 – Checkbox e Radio button em HTML :white_check_mark:
  -  Capítulo 24 Aula 09 – Elementos color, range e file em HTML  :white_check_mark:
  -  Capítulo 24 Aula 10 – Select, datalist e textarea em HTML  :white_check_mark:
+ -  Capítulo 24 Aula 11 – Elemento output em formulários HTML :white_check_mark:
+ -  Capítulo 25 Aula 01 – O que são Media Queries em CSS  :white_check_mark:
+ -  Capítulo 25 Aula 02 – Criando um site com versão para impressora  :white_check_mark:
+ -  Capítulo 25 Aula 03 – Múltiplas Media Features com CSS  :white_check_mark: 
+ -  Capítulo 25 Aula 04 – Seguindo a orientação do dispositivo  :white_check_mark: 
+ -  Capítulo 25 Aula 05 – Reunindo tudo em um único CSS :white_check_mark: 
+ 
+ 
 
  
 
