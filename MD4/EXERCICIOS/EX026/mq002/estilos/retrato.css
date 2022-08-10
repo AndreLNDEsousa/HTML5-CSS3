@@ -3,6 +3,6 @@
 /* ESTILO PARA TELAS EM PÉ (PORTRAIT)*/
 
 body {
-    background: url(../imagens/cev-portrait.jpg);
+    background: url(../imagens/cev-portrait.jpg) no-repeat;
     background-position: center bottom;
 }
