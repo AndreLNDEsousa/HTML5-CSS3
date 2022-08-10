@@ -9,6 +9,8 @@ Curso em Vídeo ( Prof.ª Gustavo Guanabara ) Curso super interativo e gratuito 
 - Emissão dos certificados PAGA*.
 
 >Valor super acessivel e muito em conta se comparado com as escolas **paga**.
+
+>Acesse os módulos e saiba mais sobre o conteúdo!!!!
 ## Saiba mais!!!
 
 [![Saiba mais](https://user-images.githubusercontent.com/87583186/171873126-2a295dc7-3ed6-4b10-99b4-796fb964f64e.png)](https://www.cursoemvideo.com/ )
