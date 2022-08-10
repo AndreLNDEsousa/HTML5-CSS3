@@ -28,7 +28,7 @@
 @media screen and (orientation: portrait) {
 
     body {
-        background: url(../imagens/cev-portrait.jpg) no-repeat;
+        background-image: url(../imagens/cev-portrait.jpg) no-repeat;
         background-position: bottom;
     }
 
@@ -38,7 +38,7 @@
 @media screen and (orientation : landscape) {
 
     body {
-        background: url(../imagens/cev-landscape.jpg) no-repeat;
+        background-image: url(../imagens/cev-landscape.jpg) no-repeat;
         /* Tive que colocar no-repeat aqui pois a imagem estava se repetindo*/
         background-position: left bottom;
     }
