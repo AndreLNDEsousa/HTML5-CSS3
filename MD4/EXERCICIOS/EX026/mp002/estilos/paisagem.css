@@ -2,7 +2,7 @@
 
 /* ESTILO PARA TELAS DEITADAS (LANDSCAPE)*/
 
-*{
-    margin: 0px;
-    padding: 0px;
+body {
+    background: url(../imagens/cev-landscape.jpg) no-repeat; /* Tive que colocar no-repeat aqui pois a imagem estava se repetindo*/
+    background-position: left bottom;
 }

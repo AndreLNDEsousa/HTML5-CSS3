@@ -2,7 +2,7 @@
 
 /* ESTILO PARA TELAS EM PÉ (PORTRAIT)*/
 
-*{
-    margin: 0px;
-    padding: 0px;
+body {
+    background: url(../imagens/cev-portrait.jpg);
+    background-position: center bottom;
 }
