@@ -40,6 +40,16 @@ Conteúdo da Módulo
  -  Capítulo 25 Aula 03 – Múltiplas Media Features com CSS  :white_check_mark: 
  -  Capítulo 25 Aula 04 – Seguindo a orientação do dispositivo  :white_check_mark: 
  -  Capítulo 25 Aula 05 – Reunindo tudo em um único CSS :white_check_mark: 
+ -  Capítulo 25 Aula 06 – Mobile First :white_check_mark: 
+ -  Capítulo 25 Aula 07 – Iniciando um site mobile first :white_check_mark: 
+ -  Capítulo 25 Aula 08 – Device breakpoints :white_check_mark: 
+ -  Capítulo 25 Aula 09 – Menu responsivo com HTML5 e CSS3 :white_check_mark: 
+ -  Capítulo 25 Aula 10 – Configurando o layout do projeto :white_check_mark: 
+ -  Capítulo 25 Aula 11 – Criando um menu hambúrguer :white_check_mark: 
+ -  Capítulo 25 Aula 12 – Media Queries para outros dispositivos :white_check_mark: 
+ -  Capítulo 26 Aula 01 – Tela de login responsiva só com HTML e CSS :white_check_mark: 
+ -  Capítulo 26 Aula 02 – Versão mobile first da tela de login :white_check_mark: 
+ -  Capítulo 26 Aula 03 – Outras Media Queries para o projeto :white_check_mark: 
  
  
 
