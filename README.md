@@ -49,3 +49,12 @@ Acesse o projeto pelo QR CODE
 
 ![frame (1)](https://user-images.githubusercontent.com/87583186/180022409-a961fde0-dc09-4b8f-bf68-92fc3563537f.png)
 
+## Site Mundo Invertido de "STRANGER THINGS" :desktop_computer:
+<a href="https://andrelndesousa.github.io/Projeto-frontend-mundo-invertido/" target="_blank">https://andrelndesousa.github.io/Projeto-frontend-mundo-invertido/</a>
+
+Acesse o projeto pelo QR CODE
+
+![frame](https://user-images.githubusercontent.com/87583186/198661128-3b9b8c30-0526-4b2a-aea9-630bb20e9f41.png)
+
+
+
